@@ -1,0 +1,9 @@
+# Genesis10000+ Framework Requirements
+
+# Core dependencies (minimal - using standard library where possible)
+# No external dependencies required for core functionality
+
+# Optional dependencies for enhanced features
+# pytest>=7.0.0  # For running tests
+# black>=22.0.0  # For code formatting
+# mypy>=0.950    # For type checking
