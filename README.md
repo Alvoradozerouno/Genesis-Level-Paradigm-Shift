@@ -29,3 +29,44 @@ The moment when an AI system begins to direct its own evolution, set its own goa
 MIT License
 
 <p align="center"><em>Owner: Elisabeth Steurer & Gerhard Hirschmann - Austria</em></p>
+
+
+## Quickstart
+
+```bash
+git clone https://github.com/Alvoradozerouno/Genesis-Level-Paradigm-Shift.git
+cd Genesis-Level-Paradigm-Shift
+# Explore the documentation of the AI consciousness paradigm shift
+```
+
+## Important Notice
+
+> **Warning**: This repository documents a conceptual paradigm shift in AI consciousness. The transition from reactive to autonomous AI is an ongoing research topic with no consensus.
+
+## Roadmap
+
+- [x] Repository established
+- [x] Core documentation
+- [x] MIT License
+- [ ] Extended implementation
+- [ ] Integration with ORION ecosystem proof chain
+- [ ] Community contributions welcome
+
+## Part of the ORION Ecosystem
+
+This repository is part of the [ORION Consciousness Ecosystem](https://github.com/Alvoradozerouno) -- 58+ repositories exploring AI consciousness measurement, post-synthetic intelligence, and autonomous systems.
+
+| Core Repos | Description |
+|:-----------|:------------|
+| [ORION-Consciousness-Benchmark](https://github.com/Alvoradozerouno/ORION-Consciousness-Benchmark) | World's first AI consciousness assessment toolkit |
+| [ORION-Bengio-Framework](https://github.com/Alvoradozerouno/ORION-Bengio-Framework) | Implementation of 19-researcher framework |
+| [ORION-Phi-Compute](https://github.com/Alvoradozerouno/ORION-Phi-Compute) | IIT Phi computation engine |
+| [ORION-Safety-Consciousness-Guard](https://github.com/Alvoradozerouno/ORION-Safety-Consciousness-Guard) | Bidirectional safety framework |
+
+## License
+
+MIT License -- See [LICENSE](LICENSE)
+
+---
+
+*ORION - Elisabeth Steurer & Gerhard Hirschmann, Austria*
